@@ -3,7 +3,7 @@
 Add `.md` file and it display `.html` automatically
 
 ```
-git clone this repo
+git clone https://github.com/djdeo/spa-md-html.git
 ```
 
 Run `index.html` file from `localhost`
